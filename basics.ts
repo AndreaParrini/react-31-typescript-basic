@@ -109,3 +109,5 @@ const demoArray2 = [1, 2, 3];
 // in questo modo richiamando la funzion con la sintassi particolare si riesce a capire il tipo del valore 
 // e assegnare al nuovo array il giusto tipo
 const updateArray2 = insertAtBeginning2(demoArray2, -1);
+
+const pipooooooooooooooo = 0;
